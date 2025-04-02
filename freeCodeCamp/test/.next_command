@@ -95,3 +95,4 @@ touch CodeRode.svg
 rm CodeRode.svg
 touch CodeRoad.svg
 touch freeCodeCamp.svg
+ls --color=auto
