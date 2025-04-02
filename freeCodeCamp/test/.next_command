@@ -85,3 +85,5 @@ touch header.png
 touch footer.jpeg
 ls --color=auto
 touch roboto.font
+touvh lato.font
+touch lato.font
