@@ -153,3 +153,11 @@ mkdir images
 cd images
 touch background jpf
 touch background.jpg
+ls --color=auto
+rm background jpf
+ls --color=auto
+pwd
+cd ../../../..
+cd website
+cd client/assets/images
+cd ../../..
