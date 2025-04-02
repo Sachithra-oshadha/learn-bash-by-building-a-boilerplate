@@ -90,3 +90,7 @@ touch lato.font
 touch menlo.font
 ls --color=auto
 touch CodeAlly.svg
+__vsc_prompt_cmd_original
+touch CodeRode.svg
+rm CodeRode.svg
+touch CodeRoad.svg
